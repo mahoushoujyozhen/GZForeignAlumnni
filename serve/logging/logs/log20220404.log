@@ -1,0 +1,7 @@
+[ERROR][conn.go:30]2022/04/04 13:23:53 [the database connect fail]
+[INFO][define.go:25]2022/04/04 13:23:53 [1212]
+[ERROR][conn.go:32]2022/04/04 13:25:29 [the database connect success]
+[INFO][define.go:25]2022/04/04 13:25:29 [1212]
+[ERROR][conn.go:32]2022/04/04 13:32:08 [the database connect success]
+[INFO][define.go:25]2022/04/04 13:32:08 [1212]
+[ERROR][deleteService.go:68]2022/04/04 13:59:08 [remove /resources/6916624985536729088.jpg: The system cannot find the file specified.]
